@@ -20,4 +20,5 @@ export const config = {
     database: required('DB_DATABASE'),
     password: required('DB_PASSWORD'),
   },
+  filePath: required('FILE_PATH'),
 };
